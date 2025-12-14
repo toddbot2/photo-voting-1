@@ -1,2 +1,2 @@
 # photo-voting-1
-First version of photo rating gallery with friends
+First version of photo rating gallery with friends for fun
